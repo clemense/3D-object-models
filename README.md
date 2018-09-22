@@ -5,3 +5,6 @@
 * shapenet_sem: https://www.shapenet.org/
 * 3dnet: https://ieeexplore.ieee.org/document/6225116/
 * ycb: http://www.ycbbenchmarks.com/object-models/
+
+# Resources
+http://yulanguo.me/dataset.html
